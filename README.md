@@ -22,7 +22,7 @@ BMI = weight (kg) / height (m)²
 Classification ranges are based on the WHO international standard for adults.
 
 ## 🚀 Running it locally
-
+To run this project locally, make sure you have **Node.js** installed on your computer. Then, run the following commands in your terminal:
 ```bash
 npm install
 npm start
